@@ -12,19 +12,5 @@
       "$type": "color",
       "$value": "#f59f00ff"
     }
-  },
-  "Alias Colors": {
-    "text": {
-      "$type": "color",
-      "$value": "{Base Colors.charcoal}"
-    },
-    "accent": {
-      "$type": "color",
-      "$value": "{Base Colors.gold}"
-    },
-    "color": {
-      "$type": "color",
-      "$value": "{Alias Colors.text}"
-    }
   }
 }
