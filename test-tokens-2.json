@@ -11,6 +11,10 @@
     "gold": {
       "$type": "color",
       "$value": "#f59f00ff"
+    },
+    "Untitled": {
+      "$type": "color",
+      "$value": "#f51515ff"
     }
   }
 }
