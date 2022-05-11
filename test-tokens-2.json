@@ -8,6 +8,18 @@
       "$type": "color",
       "$value": "#339af0ff"
     },
+    "text": {
+      "$type": "color",
+      "$value": "{Base Colors.charcoal}"
+    },
+    "accent": {
+      "$type": "color",
+      "$value": "{Base Colors.gold}"
+    },
+    "color": {
+      "$type": "color",
+      "$value": "{Base Colors.text}"
+    },
     "gold": {
       "$type": "color",
       "$value": "#f59f00ff"
@@ -15,6 +27,14 @@
     "Untitled": {
       "$type": "color",
       "$value": "#f51515ff"
+    },
+    "Copy of accent": {
+      "$type": "color",
+      "$value": "{Base Colors.gold}"
+    },
+    "Copy of Copy of accent": {
+      "$type": "color",
+      "$value": "{Base Colors.gold}"
     }
   }
 }
