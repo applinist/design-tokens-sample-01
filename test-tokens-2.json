@@ -22,7 +22,8 @@
     },
     "gold": {
       "$type": "color",
-      "$value": "#f5ce00ff"
+      "$value": "#f5ce00ff",
+      "$description": ""
     },
     "Untitled": {
       "$type": "color",
