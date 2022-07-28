@@ -1,0 +1,100 @@
+{
+  "Colors": {
+    "Brand Color": {
+      "$type": "color",
+      "$value": "#004cffff"
+    },
+    "Brand Theme Override": {
+      "$type": "color",
+      "$value": "#ff0000ff"
+    },
+    "Child Theme Override": {
+      "$type": "color",
+      "$value": "#00ff2aff"
+    },
+    "Base": {
+      "$type": "color",
+      "$value": "#f7efefff"
+    },
+    "Untitled": {
+      "$type": "color",
+      "$value": "#ffffffff"
+    }
+  },
+  "Typo": {
+    "Child Theme Override": {
+      "$type": "color",
+      "$value": "#00ff2aff"
+    },
+    "Untitled": {
+      "$type": "fontFamily",
+      "$value": ""
+    }
+  },
+  "Colors1": {
+    "Brand Color": {
+      "$type": "color",
+      "$value": "#004cffff"
+    },
+    "Brand Theme Override": {
+      "$type": "color",
+      "$value": "#ff0000ff"
+    },
+    "Child Theme Override": {
+      "$type": "color",
+      "$value": "#00ff2aff"
+    },
+    "Base": {
+      "$type": "color",
+      "$value": "#f7efefff"
+    },
+    "Untitled": {
+      "$type": "color",
+      "$value": "#ffffffff"
+    }
+  },
+  "Colors2": {
+    "Brand Color": {
+      "$type": "color",
+      "$value": "#004cffff"
+    },
+    "Brand Theme Override": {
+      "$type": "color",
+      "$value": "#ff0000ff"
+    },
+    "Child Theme Override": {
+      "$type": "color",
+      "$value": "#00ff2aff"
+    },
+    "Base": {
+      "$type": "color",
+      "$value": "#f7efefff"
+    },
+    "Untitled": {
+      "$type": "color",
+      "$value": "#ffffffff"
+    }
+  },
+  "Colors3": {
+    "Brand Color": {
+      "$type": "color",
+      "$value": "#004cffff"
+    },
+    "Brand Theme Override": {
+      "$type": "color",
+      "$value": "#ff0000ff"
+    },
+    "Child Theme Override": {
+      "$type": "color",
+      "$value": "#00ff2aff"
+    },
+    "Base": {
+      "$type": "color",
+      "$value": "#f7efefff"
+    },
+    "Untitled": {
+      "$type": "color",
+      "$value": "#ffffffff"
+    }
+  }
+}
