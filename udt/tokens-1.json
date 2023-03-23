@@ -5,10 +5,10 @@
   },
   "alias-1": {
     "$type": "color",
-    "$value": "#ff0000ff"
+    "$value": "{base-1}"
   },
   "alias-2": {
     "$type": "color",
-    "$value": "#ff0000ff"
+    "$value": "{alias-1}"
   }
 }
