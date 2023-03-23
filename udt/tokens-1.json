@@ -1,0 +1,14 @@
+{
+  "base-1": {
+    "$type": "color",
+    "$value": "#ff0000ff"
+  },
+  "alias-1": {
+    "$type": "color",
+    "$value": "#ff0000ff"
+  },
+  "alias-2": {
+    "$type": "color",
+    "$value": "#ff0000ff"
+  }
+}
