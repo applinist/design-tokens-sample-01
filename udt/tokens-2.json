@@ -3,6 +3,10 @@
     "$type": "color",
     "$value": "#ff0000ff"
   },
+  "base-1-2": {
+    "$type": "color",
+    "$value": "#ff0000ff"
+  },
   "alias-1": {
     "$type": "color",
     "$value": "{base-1-1}"
