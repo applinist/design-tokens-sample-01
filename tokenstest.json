@@ -1,13 +1,15 @@
 {
   "global": {
     "base-1": {
-      "value": "#f00",
-      "type": "color"
+      "1": {
+        "value": "#f00",
+        "type": "color"
+      }
     }
   },
   "aliases": {
     "alias": {
-      "value": "{base-1}",
+      "value": "{base-1.1}",
       "type": "color"
     }
   },
