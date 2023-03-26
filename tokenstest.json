@@ -1,0 +1,21 @@
+{
+  "global": {
+    "base-1": {
+      "value": "#f00",
+      "type": "color"
+    }
+  },
+  "aliases": {
+    "alias": {
+      "value": "{base-1}",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "aliases"
+    ]
+  }
+}
