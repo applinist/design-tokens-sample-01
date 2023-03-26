@@ -1,0 +1,18 @@
+{
+  "Gmail[Light]": {
+    "base": {
+      "$type": "color",
+      "$value": "#ffffffff"
+    },
+    "themed": {
+      "$type": "color",
+      "$value": "#fc3535ff"
+    }
+  },
+  "Gmail[Dark]": {
+    "themed": {
+      "$type": "color",
+      "$value": "#2956fbff"
+    }
+  }
+}
