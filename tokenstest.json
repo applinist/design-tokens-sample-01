@@ -5,6 +5,10 @@
         "value": "#ff0000",
         "type": "color"
       }
+    },
+    "black": {
+      "value": "#000",
+      "type": "color"
     }
   },
   "dark": {
@@ -13,6 +17,10 @@
         "value": "#0071ff",
         "type": "color"
       }
+    },
+    "black": {
+      "value": "#c2c200",
+      "type": "color"
     }
   },
   "$themes": [],
