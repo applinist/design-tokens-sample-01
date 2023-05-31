@@ -3,21 +3,21 @@
 :root {
   --white: #ffffff;
   --transparent: #00000000;
-  --gray200: #f9fafb;
-  --gray300: #c0c4c9;
-  --gray400: #8a8f94;
+  --gray.200: #f9fafb;
+  --gray.300: #c0c4c9;
+  --gray.400: #8a8f94;
   --gray: #58595a;
-  --gray600: #464748;
-  --gray700: #353536;
-  --gray800: #232424;
-  --primary200: #1b88e0;
-  --primary300: #52a6eb;
-  --primary400: #8bc4f2;
+  --gray.600: #464748;
+  --gray.700: #353536;
+  --gray.800: #232424;
+  --primary.200: #1b88e0;
+  --primary.300: #52a6eb;
+  --primary.400: #8bc4f2;
   --primary: #1565a6;
-  --primary600: #135183;
-  --primary700: #103c61;
-  --primary800: #0b283f;
-  --brandColor: #545871;
-  --brandLigjt: #f7eceb;
+  --primary.600: #135183;
+  --primary.700: #103c61;
+  --primary.800: #0b283f;
+  --brand.color: #545871;
+  --brand.ligjt: #f7eceb;
   --red: #f10f0f;
 }
